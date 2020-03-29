@@ -1,1 +1,0 @@
-[Overview](/LinearRegression/Theory/LinearRegressionOverview)
