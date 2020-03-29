@@ -1,1 +1,1 @@
-[Overview](https://github.com/LiuHaoLung/Machine-Learning/blob/master/LinearRegression/Theory/LinearRegressionOverview.ipynb/)
+[Overview](/LinearRegression/Theory/LinearRegressionOverview.ipynb/)
