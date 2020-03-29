@@ -1,1 +1,1 @@
-[Overview](/LinearRegression/Theory/LinearRegressionOverview.ipynb/)
+[Overview](/LinearRegression/Theory/LinearRegressionOverview)
